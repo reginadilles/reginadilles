@@ -8,6 +8,13 @@
 
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
+
+
+## Contatos:
+<div>
+<a href = "mailto:dilles.regina@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=limegreen" target="_blank"></a>
+</div>
+
 <!--
 <br>
 
