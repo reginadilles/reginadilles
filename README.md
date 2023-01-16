@@ -3,8 +3,8 @@
 ## Regina Dilles
 
 <div>
-<p>Curiosa em transição de carreira, apaixonada por felinos com interesse de atuação na área de Frontend.
-Um passinho de cada vez vou ganhando confiança universo da programação.</p>
+<p>Curiosa em transição de carreira, apaixonada por felinos e com interesse de atuação na área de Frontend.
+Ganhando confiança universo da programação.</p>
 </div>          
           
 
