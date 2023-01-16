@@ -1,7 +1,18 @@
 # Olá! 🐈
 
-## Estou aprendendo
+## Regina Dilles
+
 <div>
+<p>Curiosa em transição de carreira, apaixonada por felinos com interesse de atuação na área de Frontend.
+Um passinho de cada vez vou ganhando confiança universo da programação.</p>
+</div>          
+          
+
+<div align="center" width="300px" style="margin-top:-20px">
+<img src="https://user-images.githubusercontent.com/98675782/212763179-c15cf7e0-d704-4598-9420-2083c478e1d9.png" width="100px"/>
+</div>
+
+<div align="center">
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
           
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
