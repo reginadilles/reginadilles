@@ -3,7 +3,7 @@
 ## Regina Dilles
 
 <div>
-<p>Iniciando no universo da programação e com interesse de atuação em Frontend.</p>
+<p>Iniciando no universo da programação.</p>
 </div>          
           
 
