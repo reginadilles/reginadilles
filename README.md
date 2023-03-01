@@ -1,6 +1,5 @@
 # Olá! 🐈 ☕ 💻 🖤
 
-## Regina Dilles
 
 <div>
 <p>Estudando de forma autodidata, aprimorando meus conhecimentos e competências para iniciar como desenvolvedora frontend.</p>
