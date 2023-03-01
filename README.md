@@ -27,7 +27,7 @@
 
 ## Contatos:  
 
-<a href="mailto:dilles.regina@gmail.com"><img src="https://img.shields.io/badge/-dilles.regina@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href = "https://www.linkedin.com/in/reginadilles"><img src="https://img.shields.io/badge/-Regina%20Dilles%20Loureiro-0077B5?style=flat-square&logo=Linkedin&logoColor=white" target="_blank">
+<a href="mailto:dilles.regina@gmail.com"><img src="https://img.shields.io/badge/-dilles.regina@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href = "https://www.linkedin.com/in/reginadilles"><img src="https://img.shields.io/badge/-Regina%20Dilles%20Loureiro-0077B5?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a>
          
 
 
