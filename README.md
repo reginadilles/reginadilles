@@ -1,9 +1,9 @@
-# Olá! 🐈
+# Olá! 🐈 ☕ 💻 🖤
 
 ## Regina Dilles
 
 <div>
-<p>Iniciando no universo da programação.</p>
+<p>Estudando de forma autodidata, aprimorando meus conhecimentos e competências para iniciar como desenvolvedora frontend.</p>
 </div>          
           
 
